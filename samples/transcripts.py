@@ -13,7 +13,7 @@ Exports data to a local folder structure.
 """
 
 
-API_URL = 'https://api.serafis.dev'
+API_URL = 'https://api.serafis.dev/public/v1'
 # API_URL = 'http://localhost:8080/public/v1'
 
 # Place your API keys here or use environment variables
